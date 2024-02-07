@@ -1,0 +1,12 @@
+.header{
+    background-color: aquamarine;
+    color: red;
+    text-decoration: underline;
+    width: 100%;
+    font-size: xx-large;
+    padding: 20px;
+}
+.hrr{
+    /* color: black; */
+    border: 2px solid;
+}

@@ -1,0 +1,30 @@
+ .nav {
+     background-color: yellowgreen;
+     padding: 10px;
+     width: 300px;
+     position: fixed;
+     /* left: -100%; */
+     top: -100%;
+     transition: .6s;
+ }
+
+ /* .nav ul li {
+     margin: 15px 0;
+ } */
+
+ .dashBtn {
+     padding: 10px;
+     /* background-color: aqua; */
+     position: absolute;
+     right: 10px;
+     font-weight: bold;
+ }
+
+ .nav1 {
+     background-color: yellowgreen;
+     padding: 10px;
+     width: 300px;
+     position: fixed;
+     top: 0%;
+     transition: .6s;
+ }
